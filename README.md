@@ -40,5 +40,5 @@ _AirChair experiments were conducted at various locations around the York Univer
 
 ## Publications
 
-* Perroni Filho, Helio, et al. "Robot Wheelchair Convoys for Assistive Human Transportation." _2024 IEEE International Conference on Smart Mobility (SM)._ IEEE, 2024. [^](https://ieeexplore.ieee.org/document/10733535)
-* Poster presentation at the [CVR-CIAN Conference 2025](https://doi.org/10.25071/10315/42927). [^](https://raw.githubusercontent.com/ElderLab-York-University/airchair/master/posters/CVR-CIAN-2025.pdf)
+* Perroni Filho, Helio, et al. "Robot Wheelchair Convoys for Assistive Human Transportation." _2024 IEEE International Conference on Smart Mobility (SM)._ IEEE, 2024. ([link](https://ieeexplore.ieee.org/document/10733535))
+* Poster presentation at the [CVR-CIAN Conference 2025](https://doi.org/10.25071/10315/42927). ([link](https://raw.githubusercontent.com/ElderLab-York-University/airchair/master/posters/CVR-CIAN-2025.pdf))
